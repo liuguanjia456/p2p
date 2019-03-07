@@ -6,7 +6,11 @@
 
     <groupId>com.bjpowernode.activemq</groupId>
     <artifactId>14-spring-receiver-async</artifactId>
+    <packaging>pom</packaging>
     <version>1.0.0</version>
+    <modules>
+        <module>../asd</module>
+    </modules>
 
     <dependencies>
         <dependency>
